@@ -1,4 +1,4 @@
-# <p  align="center">Hotel-booking-project 🚀🚀</p>
+# <p  align="center"># Travelers-App 🚀🚀</p>
 
 ### Installation 💻
 
@@ -43,5 +43,3 @@ or npm
 6. Tailwind Css
 
 <p  align="center"  bold> <b>Powered by Taufiqur Rahman™</b></p>
-
-# Travelers-App
